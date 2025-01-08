@@ -36,7 +36,7 @@ const SearchChat = () => {
 	};
 	return (
 		<form className='flex items-center mr-2 ml-2 mb-[2px] p-3 gap-3' onSubmit={handleSubmit}>
-			<input type="text" placeholder='Search' className='min-w-[210px] h-10 input input-bordered rounded-md text-sm'
+			<input type="text" placeholder='Search' className='min-w-[210px] h-10 bg-white input input-bordered rounded-md text-sm'
 				value={search}
 				onChange={(e) => setSearch(e.target.value)}
 			/>
