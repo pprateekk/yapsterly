@@ -2,6 +2,8 @@
 
 **Yapsterly** is a real-time chat application that allows users to communicate instantly with others. Built with **React**, **Node.js**, **Socket.io**, and **MongoDB**, it features secure authentication, real-time messaging, and a user-friendly interface. The application is designed using **Tailwind CSS** for an optimized and responsive experience.
 
+![Login Page Screenshot](frontend/src/assets/loginPage.png)
+
 ---
 
 ## Key Features
